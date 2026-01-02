@@ -1,0 +1,181 @@
+{
+    "data": [
+        {
+            "id": "en_001",
+            "language": "en",
+            "text": "Hello, what seems to be the problem? Our dog is limping. Alright, let me take a look. Have you given any medication? Just some iodine. I see. I recommend Carprofen and a cooling gel. Keep the dog calm. Thank you, goodbye."
+        },
+        {
+            "id": "en_002",
+            "language": "en",
+            "audio": "en_002.wav",
+            "text": "Hello, how can I help? The dog has been coughing for two days. Okay, let me listen to the lungs. Any treatment so far? Only warm water. I'll prescribe Bromhexine and saline inhalation. Thank you."
+        },
+        {
+            "id": "en_003",
+            "language": "en",
+            "audio": "en_003.wav",
+            "text": "Hello, what happened? Our cat stopped eating. For how long? About two days. Alright. I prescribe Malt Soft paste and Ranitidine drops. If it doesn't improve, come back. Thank you."
+        },
+        {
+            "id": "en_004",
+            "language": "en",
+            "audio": "en_004.wav",
+            "text": "Hello, what's the complaint? The puppy has diarrhea. Any medications? Only rice water. I see. I'll prescribe Smecta and Enterofuril. Avoid fatty foods. Thank you."
+        },
+        {
+            "id": "en_005",
+            "language": "en",
+            "audio": "en_005.wav",
+            "text": "Hello, what’s wrong? The cat is limping on her back leg. Any treatment? No. I prescribe Chondrolon and Diclofenac gel. Limit activity. Thank you."
+        },
+        {
+            "id": "en_006",
+            "language": "en",
+            "audio": "en_006.wav",
+            "text": "Hello, how can I help? The dog scratches his ear. Any cleaning or drops used? No. I prescribe Otibiovin and daily ear cleaning. Goodbye."
+        },
+        {
+            "id": "en_007",
+            "language": "en",
+            "audio": "en_007.wav",
+            "text": "Hello, what is bothering your pet? The dog's eyes are red. Any medications used? Only water rinsing. I recommend Ciprofloxacin eye drops and hygiene. Thank you."
+        },
+        {
+            "id": "en_008",
+            "language": "en",
+            "audio": "en_008.wav",
+            "text": "Hello, what seems to be the issue? The cat is scratching a lot. Given anything? One antihistamine pill. Alright. I prescribe Stronghold and an allergy shampoo. Goodbye."
+        },
+        {
+            "id": "en_009",
+            "language": "en",
+            "text": "Hello, any complaints? The dog is weak and drinks very little. Any treatment? No. I recommend Rehydron and soft food. Thank you."
+        },
+        {
+            "id": "en_010",
+            "language": "en",
+            "text": "Hello, what seems to trouble your pet? The cat is sneezing. How long? A week. I'll prescribe Fosprenyl and warming procedures. Thank you."
+        },
+        {
+            "id": "pl_001",
+            "language": "pl",
+            "audio": "pl_001.wav",
+            "text": "Dzień dobry, co się dzieje? Nasz pies kuleje. Dobrze, zobaczmy. Podawaliście jakieś leki? Tylko jod. Zalecam Carprofen i maść chłodzącą. Ograniczcie ruch. Dziękuję."
+        },
+        {
+            "id": "pl_002",
+            "language": "pl",
+            "audio": "pl_002.wav",
+            "text": "Dzień dobry, jak mogę pomóc? Pies kaszle od dwóch dni. Zbadam go. Czy były jakieś leki? Tylko ciepła woda. Przepisuję Bromheksynę i inhalacje solą fizjologiczną. Dziękuję."
+        },
+        {
+            "id": "pl_003",
+            "language": "pl",
+            "audio": "pl_003.wav",
+            "text": "Dzień dobry, co się stało? Kot przestał jeść. Od kiedy? Od dwóch dni. Zalecam pastę Malt Soft i krople Ranitidinum. Jeśli nie będzie poprawy, proszę wrócić. Dziękuję."
+        },
+        {
+            "id": "pl_004",
+            "language": "pl",
+            "audio": "pl_004.wav",
+            "text": "Dzień dobry, jakie objawy? Szczeniak ma biegunkę. Jakieś leki? Tylko wywar z ryżu. Przepisuję Smectę i Enterofuril. Proszę unikać tłustych potraw."
+        },
+        {
+            "id": "pl_005",
+            "language": "pl",
+            "audio": "pl_005.wav",
+            "text": "Dzień dobry, co dolega? Kot kuleje na tylną łapę. Leki? Nie. Zalecam Chondrolon i żel Diklofenak. Ograniczyć ruch. Dziękuję."
+        },
+        {
+            "id": "pl_006",
+            "language": "pl",
+            "audio": "pl_006.wav",
+            "text": "Dzień dobry, w czym mogę pomóc? Pies drapie ucho. Leczenie? Nie. Przepisuję Otibiovin i codzienne czyszczenie ucha."
+        },
+        {
+            "id": "pl_007",
+            "language": "pl",
+            "audio": "pl_007.wav",
+            "text": "Dzień dobry, co niepokoi? Pies ma czerwone oczy. Jakieś leki? Tylko woda. Zalecam krople Ciprofloxacinum i higienę oczu."
+        },
+        {
+            "id": "pl_008",
+            "language": "pl",
+            "audio": "pl_008.wav",
+            "text": "Dzień dobry, co się dzieje? Kot bardzo się drapie. Podawaliście coś? Jedną tabletkę przeciwalergiczną. Zalecam Stronghold i szampon alergiczny."
+        },
+        {
+            "id": "pl_009",
+            "language": "pl",
+            "audio": "pl_009.wav",
+            "text": "Dzień dobry, jakie problemy? Pies jest słaby i mało pije. Leki? Nie. Zalecam Regidron i miękką karmę."
+        },
+        {
+            "id": "pl_010",
+            "language": "pl",
+            "audio": "pl_010.wav",
+            "text": "Dzień dobry, co dolega zwierzęciu? Kot kicha. Od kiedy? Od tygodnia. Przepisuję Fosprenil i ciepłe okłady. Dziękuję."
+        },
+        {
+            "id": "ru_001",
+            "language": "ru",
+            "audio": "ru_001.wav",
+            "text": "- Здравствуйте. На что жалуетесь?\n— У нашего пёсика хромает лапка.\n— Понятно. Давайте посмотрим. Чем вы уже лечили?\n— Мы давали только йод и делали перевязку.\n— Хорошо, я понял. Я осмотрел лапу и назначаю вам мазь Левомеколь и таблетки Карпровет. Также ограничьте активность собаки на несколько дней.\n— Спасибо, до свидания."
+        },
+        {
+            "id": "ru_002",
+            "language": "ru",
+            "audio": "ru_002.wav",
+            "text": "Здравствуйте, чем могу помочь? Собака кашляет уже третий день. Понятно. Давайте послушаем лёгкие. Давали какие-то лекарства? Только тёплое питьё. Хорошо. Я назначаю вам Бронхолитин и ингаляции с физраствором. Спасибо большое, до свидания."
+        },
+        {
+            "id": "ru_003",
+            "language": "ru",
+            "audio": "ru_003.wav",
+            "text": "Здравствуйте, что произошло? Наш кот перестал есть. Давно? Примерно два дня. Понятно. Чем-нибудь обрабатывали? Нет. Хорошо, я назначаю вам пасту Мальтсофт и капли Ранитидин. Если улучшений не будет — приходите снова. Спасибо."
+        },
+        {
+            "id": "ru_004",
+            "language": "ru",
+            "audio": "ru_004.wav",
+            "text": "Здравствуйте, на что жалуетесь? У щенка понос. Давали что-нибудь? Только рисовый отвар. Осмотрел. Назначаю Смекту и Энтерофурил. Не давайте жирного и сладкого. Спасибо, до свидания."
+        },
+        {
+            "id": "ru_005",
+            "language": "ru",
+            "audio": "ru_005.wav",
+            "text": "Здравствуйте, что случилось? Кошка начала хромать на заднюю лапу. Понятно. Лекарства давали? Нет. Я осмотрел, назначаю вам Хондролон и мазь Диклофенак. Ограничьте подвижность. Спасибо."
+        },
+        {
+            "id": "ru_006",
+            "language": "ru",
+            "audio": "ru_006.wav",
+            "text": "Здравствуйте, как могу помочь? Пёсик чешет ухо. Сколько дней? Примерно неделю. Проводили обработку? Нет. Хорошо. Я назначаю вам Отибиовин и чистку ушей два раза в день. Спасибо, до свидания."
+        },
+        {
+            "id": "ru_007",
+            "language": "ru",
+            "audio": "ru_007.wav",
+            "text": "Здравствуйте, что беспокоит? У собаки покраснели глаза. Использовали лекарства? Только промывали водой. Хорошо. Я назначаю Капли Ципровет и рекомендации по гигиене глаз. Спасибо."
+        },
+        {
+            "id": "ru_008",
+            "language": "ru",
+            "audio": "ru_008.wav",
+            "text": "Здравствуйте, что у вас случилось? Кот стал часто чесаться. Давали что-нибудь? Антигистаминное один раз. Хорошо, я назначаю Стронгхолд и шампунь от аллергии. Спасибо, до свидания."
+        },
+        {
+            "id": "ru_009",
+            "language": "ru",
+            "audio": "ru_009.wav",
+            "text": "Здравствуйте, какие жалобы? Собака мало пьёт и вялая. Обрабатывали чем-то? Нет. Я осмотрел. Назначаю вам Регидрон и корм мягкой консистенции. Спасибо."
+        },
+        {
+            "id": "ru_010",
+            "language": "ru",
+            "audio": "ru_010.wav",
+            "text": "Здравствуйте, что беспокоит вашего питомца? Кот чихает. Давно? Неделю. Хорошо. Я назначаю Фоспренил и согревающие процедуры. Спасибо, до свидания."
+        }
+    ]
+}
