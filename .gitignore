@@ -3,14 +3,9 @@
 Transcriptions/**
 **/__pycache__/**
 **/data/**
-**/vetmind.egg-info/**
 
-# tmp files
-*.idea
-*.DS_Store
-
-# files not to be in the repo
 *.pdf
 *.env
 *.wav
-*.mp3
+*.json
+
